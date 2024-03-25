@@ -1,0 +1,94 @@
+Surusmeler
+
+Bölmə ilə əlaqəli sürüşmə tapıldı-2431669
+Bölmə ilə əlaqəli sürüşmə tapıldı-2431669
+Bölmə ilə əlaqəli sürüşmə tapıldı-1509633
+Bölmə ilə əlaqəli sürüşmə tapıldı-1509633
+Bölmə ilə əlaqəli sürüşmə tapıldı-1796623
+Bölmə ilə əlaqəli sürüşmə tapıldı-1796623
+Bölmə ilə əlaqəli sürüşmə tapıldı-1848570
+Bölmə ilə əlaqəli sürüşmə tapıldı-1848570
+Bölmə ilə əlaqəli sürüşmə tapıldı-2297712
+Bölmə ilə əlaqəli sürüşmə tapıldı-2297712
+Bölmə ilə əlaqəli sürüşmə tapıldı-2597729
+Bölmə ilə əlaqəli sürüşmə tapıldı-2597729
+Bölmə ilə əlaqəli sürüşmə tapıldı-2597583
+Bölmə ilə əlaqəli sürüşmə tapıldı-2597583
+
+
+
+Sehf fenler
+
+Utis-2389663,bolme-(A->T)
+Utis-2141823,bolme-(A->R)
+Utis-1625247,bolme-(C->T)
+Utis-2763397,bolme-(A->R)
+Utis-1705006,bolme-(A->T)
+Utis-2841488,bolme-(A->B)
+Utis kod səhfdir-1828062
+Utis kod səhfdir-2359313
+Utis kod səhfdir-2212422
+Utis kod səhfdir-2392685
+Utis kod səhfdir-2390041
+Utis kod səhfdir-2520040 
+Utis-2870906,bolme-(A->R)
+Utis-2917600,bolme-(A->R)
+Utis-2912598,bolme-(A->R)
+Utis-2919902,bolme-(R->A)
+
+Sehf bolmeler
+
+Utis-2737097,bolme-(R->A)
+Utis-2743564,bolme-(R->A)
+Utis-2788684,bolme-(R->A)
+Utis-2403398,bolme-(R->A)
+Utis-2819676,bolme-(R->A)
+Utis-1956652,bolme-(R->A)
+Utis-2431669,bolme-(I->A)
+Utis-2262769,bolme-(R->A)
+Utis-2408830,bolme-(R->A)
+Utis-2840142,bolme-(A->R)
+Utis-2897763,bolme-(R->A)
+Utis-2236672,bolme-(R->A)
+Utis-1509633,bolme-(I->A)
+Utis-2842787,bolme-(R->A)
+Utis-1890925,bolme-(R->A)
+Utis-1796623,bolme-( ->A)
+Utis-1848570,bolme-(*->A)
+Utis-2297712,bolme-(I->A)
+Utis-2742035,bolme-(R->A)
+Utis kod səhfdir-1828062
+Utis kod səhfdir-2359313
+Utis kod səhfdir-2212422
+Utis kod səhfdir-2392685
+Utis kod səhfdir-2390041
+Utis kod səhfdir-2520040       
+Utis-1607679,bolme-(R->A)
+Utis-1887079,bolme-(R->A)
+Utis-2912626,bolme-(R->A)
+Utis-2904541,bolme-(R->A)
+Utis-2884093,bolme-(R->A)
+Utis-2915556,bolme-(R->A)
+Utis-2884114,bolme-(R->A)
+Utis-2028296,bolme-(R->A)
+Utis-1637220,bolme-(R->A)
+Utis-2597729,bolme-(I->A)
+Utis-1486797,bolme-(R->A)
+Utis-2597583,bolme-(I->A)
+Utis-1813036,bolme-(R->A)
+Utis-2322091,bolme-(R->A)
+Utis-2747084,bolme-(R->A)
+
+sehf sinifler
+Utis:2073221;(09->10})
+Utis:2332530;(09->10})
+Utis:2804239;(02->08})
+Utis:2294494;(02->10})
+Utis:1863739;(09->08})
+Utis:1486727;(08->09})
+Utis:1716061;(08->09})
+Utis:2889794;(09->08})
+Utis:2025096;(06->09})
+Utis:1549827;(08->09})
+Utis:2791359;(09->08})
+Utis:2813818;(09->08})
